@@ -19,11 +19,11 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px>
 
-- :office: I am currently working as a `Junior Software Engineer`
-- :mortar_board: I have a bachelor degree in `Microelectronics, Optoelectrinics and Nanotechnologies` and a master degree in `Computer Vision`
+- :office: I am currently working as a `Junior Software Engineer`.
+- :mortar_board: I have a bachelor degree in `Microelectronics, Optoelectrinics and Nanotechnologies` and a master degree in `Computer Vision`.
 - :art: **Hobbies:** Watching anime series, movies, TV series. I love tech-related stuff and I have decent knowledge regarding `computers`. I also like playing footbal and running.
 - :seedling: Currently, I'm expanding my knowledge across a variety of topics and trying to learn more about tools/frameworks that I use day by day.
-- :computer: I'm currently interested in `DevOps` and `Cybersecurity`
+- :computer: I'm currently interested in `DevOps` and `Cybersecurity` also.
 
 <br>
 
